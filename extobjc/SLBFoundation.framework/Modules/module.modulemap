@@ -1,0 +1,6 @@
+framework module SLBFoundation {
+  umbrella header "SLBFoundation.h"
+
+  export *
+  module * { export * }
+}
